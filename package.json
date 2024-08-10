@@ -17,7 +17,7 @@
 		"@tailwindcss/typography": "^0.5.13",
 		"autoprefixer": "^10.4.20",
 		"postcss": "^8.4.41",
-		"tailwindcss": "^3.4.7"
+		"tailwindcss": "^3.4.9"
 	},
 	"dependencies": {
 		"ansi-regex": "^6.0.1",
@@ -108,5 +108,8 @@
 		"wrap-ansi": "^8.1.0",
 		"wrap-ansi-cjs": "^7.0.0",
 		"yaml": "^2.5.0"
+	},
+	"directories": {
+		"test": "test"
 	}
 }
